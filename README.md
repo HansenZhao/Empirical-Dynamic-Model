@@ -9,7 +9,7 @@ To Test the algorithem, For example: we observed the intensity of fluorescence o
 raw data can be transform to dataSet with 101rows and 2 column
 
 edm = EDM(dataSet);
-result = edm.estimateFromTo(indexRes,indexTar,e,tau);//estimate from variable in column<indexRes> to variable in colum<indexTar> by space                                                      //dimension of <e> and time delay of <tau>, return set in two column 
+result = edm.estimateFromTo(indexRes,indexTar,e,tau);//estimate from variable in column[indexRes] to variable in colum[indexTar] by space                                                      //dimension of [e] and time delay of [tau], return set in two column 
                                                      //column(1) is the real target value, column(2) is eatimated value
 
 # Paper
