@@ -1,6 +1,6 @@
 # Empirical-Dynamic-Model
 
-Test for Empirical Dynamic Model
+Test for Empirical Dynamic Model in Matlab Code
 
 Identify Causality between two variable observed in time series
 
